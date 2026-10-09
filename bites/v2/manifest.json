@@ -1,0 +1,495 @@
+{
+ "schema": 2,
+ "version": "2026-10-09.1932",
+ "generated_at": "2026-10-09T19:32:34Z",
+ "min_app_version": "1.0.3",
+ "signature": {
+  "alg": "ed25519",
+  "key_id": "74055e7c54bc6264",
+  "file": "manifest.sig"
+ },
+ "packs": [
+  {
+   "pack": "common",
+   "url": "packs/common.d65798ae.json.gz",
+   "encoding": "gzip",
+   "sha256": "9aa3d811e751e1eac9a8ef1e365dc24cef5d902a98d68cb55d9497f7406da5cc",
+   "bytes": 68697,
+   "json_sha256": "d65798aea08a6be319144f031c859edbf65df8ca9f8029ef090c9875088c06a6",
+   "json_bytes": 172099
+  },
+  {
+   "pack": "animal-kingdom",
+   "url": "packs/animal-kingdom.957e46e7.json.gz",
+   "encoding": "gzip",
+   "sha256": "c5a8c977ffdb7686a0da7187e6ee69800184f753b668533e0695afff38015ca3",
+   "bytes": 99929,
+   "json_sha256": "957e46e74b9f4eb8b832417c3ed3cd8e107140e054b16a8b46d7732a80033f53",
+   "json_bytes": 1080926,
+   "park_id": "00000002-0000-0000-0000-000000000004",
+   "park_name": "Animal Kingdom",
+   "counts": {
+    "lands": 7,
+    "venues": 28,
+    "venues_with_items": 27,
+    "items": 1088,
+    "live_items": 1083,
+    "retired_items": 5,
+    "priced": 942,
+    "described": 606,
+    "new_items": 25,
+    "kinds": {
+     "dessert": 82,
+     "drink_alcoholic": 324,
+     "drink_nonalcoholic": 261,
+     "kids": 85,
+     "meal": 207,
+     "merch": 7,
+     "side": 52,
+     "snack": 65
+    }
+   }
+  },
+  {
+   "pack": "citywalk-hollywood",
+   "url": "packs/citywalk-hollywood.8bf5c707.json.gz",
+   "encoding": "gzip",
+   "sha256": "65c66855b1e97df5c2c0979477dfc4ed31579843677f74690dceef02c688fe7a",
+   "bytes": 85575,
+   "json_sha256": "8bf5c70745cb01c8ec95396b1ca091ae6e280a043b1cb68c18d84c1a7ad3f098",
+   "json_bytes": 991901,
+   "park_id": "00000002-0000-0000-0000-000000000014",
+   "park_name": "CityWalk Hollywood",
+   "counts": {
+    "lands": 1,
+    "venues": 26,
+    "venues_with_items": 8,
+    "items": 966,
+    "live_items": 966,
+    "retired_items": 0,
+    "priced": 488,
+    "described": 782,
+    "new_items": 0,
+    "kinds": {
+     "dessert": 56,
+     "drink_alcoholic": 373,
+     "drink_nonalcoholic": 84,
+     "kids": 25,
+     "meal": 330,
+     "merch": 8,
+     "side": 32,
+     "snack": 58
+    }
+   }
+  },
+  {
+   "pack": "citywalk-orlando",
+   "url": "packs/citywalk-orlando.0e14a7d3.json.gz",
+   "encoding": "gzip",
+   "sha256": "c607b8c09761a7c5cb1c3ed84af4a6ef55301e38c69bf57d0349031a162cb63f",
+   "bytes": 157863,
+   "json_sha256": "0e14a7d325f21a70bb686bbbfbf4473cfdd1c36abb55e255007cf25f54e8f21d",
+   "json_bytes": 1694775,
+   "park_id": "00000002-0000-0000-0000-000000000012",
+   "park_name": "CityWalk Orlando",
+   "counts": {
+    "lands": 1,
+    "venues": 25,
+    "venues_with_items": 20,
+    "items": 1705,
+    "live_items": 1705,
+    "retired_items": 0,
+    "priced": 1266,
+    "described": 1417,
+    "new_items": 0,
+    "kinds": {
+     "dessert": 91,
+     "drink_alcoholic": 563,
+     "drink_nonalcoholic": 187,
+     "kids": 76,
+     "meal": 644,
+     "merch": 6,
+     "side": 52,
+     "snack": 86
+    }
+   }
+  },
+  {
+   "pack": "disney-california-adventure",
+   "url": "packs/disney-california-adventure.b08198ae.json.gz",
+   "encoding": "gzip",
+   "sha256": "282cb432f3ba75642704d86ec308f6209ba025f021baf5323919dcbfb9580c88",
+   "bytes": 120459,
+   "json_sha256": "b08198aeea45ab365c7f348ac47aa831784ec44ddee2aa496f9488cb4a83c03f",
+   "json_bytes": 1358466,
+   "park_id": "00000002-0000-0000-0000-000000000007",
+   "park_name": "Disney California Adventure",
+   "counts": {
+    "lands": 10,
+    "venues": 42,
+    "venues_with_items": 42,
+    "items": 1302,
+    "live_items": 1300,
+    "retired_items": 2,
+    "priced": 1221,
+    "described": 817,
+    "new_items": 0,
+    "kinds": {
+     "dessert": 114,
+     "drink_alcoholic": 418,
+     "drink_nonalcoholic": 360,
+     "kids": 57,
+     "meal": 177,
+     "merch": 41,
+     "side": 41,
+     "snack": 92
+    }
+   }
+  },
+  {
+   "pack": "disney-springs",
+   "url": "packs/disney-springs.93876abb.json.gz",
+   "encoding": "gzip",
+   "sha256": "96a13dec0f87ae9c555bbddb80282930d9b1f274e4938fb2157c58264dd56364",
+   "bytes": 399079,
+   "json_sha256": "93876abb60d9e00af4265fb4d3074079bdd0b1591054e1a5a4be71598711a139",
+   "json_bytes": 4461721,
+   "park_id": "00000002-0000-0000-0000-000000000005",
+   "park_name": "Disney Springs",
+   "counts": {
+    "lands": 4,
+    "venues": 56,
+    "venues_with_items": 56,
+    "items": 4651,
+    "live_items": 4651,
+    "retired_items": 0,
+    "priced": 4174,
+    "described": 2502,
+    "new_items": 18,
+    "kinds": {
+     "dessert": 313,
+     "drink_alcoholic": 1702,
+     "drink_nonalcoholic": 895,
+     "kids": 236,
+     "meal": 949,
+     "merch": 6,
+     "side": 223,
+     "snack": 327
+    }
+   }
+  },
+  {
+   "pack": "disneyland-park",
+   "url": "packs/disneyland-park.3baabcc9.json.gz",
+   "encoding": "gzip",
+   "sha256": "241d7a7d4c518aa6b2910ec75dd7465245c2b2d5ffefa928b56cf9425db07d5f",
+   "bytes": 93067,
+   "json_sha256": "3baabcc9d98aa7048c5fbc55ef55831e78063ca934cf5af847267799c6d97fd2",
+   "json_bytes": 1046254,
+   "park_id": "00000002-0000-0000-0000-000000000006",
+   "park_name": "Disneyland Park",
+   "counts": {
+    "lands": 10,
+    "venues": 44,
+    "venues_with_items": 44,
+    "items": 1042,
+    "live_items": 1036,
+    "retired_items": 6,
+    "priced": 947,
+    "described": 605,
+    "new_items": 0,
+    "kinds": {
+     "dessert": 129,
+     "drink_alcoholic": 65,
+     "drink_nonalcoholic": 340,
+     "kids": 71,
+     "meal": 208,
+     "merch": 60,
+     "side": 64,
+     "snack": 99
+    }
+   }
+  },
+  {
+   "pack": "downtown-disney-anaheim",
+   "url": "packs/downtown-disney-anaheim.84dfc558.json.gz",
+   "encoding": "gzip",
+   "sha256": "9065eae5db152defc5a06a50b907de118ab1d6c2e5a4acc6afbf9f1abf4ee435",
+   "bytes": 114752,
+   "json_sha256": "84dfc558a1abfbbfe946fa2fec633028fd7b5a0426c9cbac4393ffe88c10aed3",
+   "json_bytes": 1303242,
+   "park_id": "00000002-0000-0000-0000-000000000008",
+   "park_name": "Downtown Disney",
+   "counts": {
+    "lands": 1,
+    "venues": 25,
+    "venues_with_items": 25,
+    "items": 1427,
+    "live_items": 1427,
+    "retired_items": 0,
+    "priced": 47,
+    "described": 877,
+    "new_items": 31,
+    "kinds": {
+     "dessert": 115,
+     "drink_alcoholic": 316,
+     "drink_nonalcoholic": 400,
+     "kids": 59,
+     "meal": 327,
+     "side": 77,
+     "snack": 133
+    }
+   }
+  },
+  {
+   "pack": "epcot",
+   "url": "packs/epcot.06886ba1.json.gz",
+   "encoding": "gzip",
+   "sha256": "c9cb1f8810706348b5111b8e297e46e68266f13ec4e8f5771a2c89ad2b2d0cdd",
+   "bytes": 200822,
+   "json_sha256": "06886ba18b0cafd2c5053cd619d5094e2bdf0c8c98cf53e9e41bcc2c1578ec3c",
+   "json_bytes": 2152504,
+   "park_id": "00000002-0000-0000-0000-000000000002",
+   "park_name": "EPCOT",
+   "counts": {
+    "lands": 5,
+    "venues": 77,
+    "venues_with_items": 77,
+    "items": 2123,
+    "live_items": 2123,
+    "retired_items": 0,
+    "priced": 1831,
+    "described": 1228,
+    "new_items": 114,
+    "kinds": {
+     "dessert": 186,
+     "drink_alcoholic": 882,
+     "drink_nonalcoholic": 292,
+     "kids": 157,
+     "meal": 364,
+     "merch": 2,
+     "side": 82,
+     "snack": 158
+    }
+   }
+  },
+  {
+   "pack": "epic-universe",
+   "url": "packs/epic-universe.4fcac0a5.json.gz",
+   "encoding": "gzip",
+   "sha256": "2361d209326545cfe82601a7ead5d8c37c7ce95f0de4febba7ec9af2555492c7",
+   "bytes": 85643,
+   "json_sha256": "4fcac0a5fab43c52cd8c5aa2a2f7c78e05a25797a8cd46ef9cf4cd1c84b386db",
+   "json_bytes": 907898,
+   "park_id": "00000002-0000-0000-0000-000000000011",
+   "park_name": "Epic Universe",
+   "counts": {
+    "lands": 5,
+    "venues": 24,
+    "venues_with_items": 24,
+    "items": 814,
+    "live_items": 814,
+    "retired_items": 0,
+    "priced": 53,
+    "described": 486,
+    "new_items": 0,
+    "kinds": {
+     "dessert": 42,
+     "drink_alcoholic": 318,
+     "drink_nonalcoholic": 159,
+     "kids": 23,
+     "meal": 159,
+     "merch": 47,
+     "side": 31,
+     "snack": 35
+    }
+   }
+  },
+  {
+   "pack": "hollywood-studios",
+   "url": "packs/hollywood-studios.50c90a53.json.gz",
+   "encoding": "gzip",
+   "sha256": "c1cb68ba5c651fdac397e18aeb20a96865b0a3d20eeb1b7ac1ab208066e7a885",
+   "bytes": 95471,
+   "json_sha256": "50c90a5377d761afb90eb774f8b7f061d7c2e29d2f43ad787233f2371383bd76",
+   "json_bytes": 1016285,
+   "park_id": "00000002-0000-0000-0000-000000000003",
+   "park_name": "Hollywood Studios",
+   "counts": {
+    "lands": 8,
+    "venues": 26,
+    "venues_with_items": 26,
+    "items": 974,
+    "live_items": 973,
+    "retired_items": 1,
+    "priced": 852,
+    "described": 499,
+    "new_items": 13,
+    "kinds": {
+     "dessert": 76,
+     "drink_alcoholic": 307,
+     "drink_nonalcoholic": 257,
+     "kids": 77,
+     "meal": 146,
+     "merch": 14,
+     "side": 40,
+     "snack": 56
+    }
+   }
+  },
+  {
+   "pack": "islands-of-adventure",
+   "url": "packs/islands-of-adventure.ea9dd429.json.gz",
+   "encoding": "gzip",
+   "sha256": "1ec9be21031daa8fc717fe783e789906f4f347d75fd9bb181a3964bdfdc494e8",
+   "bytes": 83749,
+   "json_sha256": "ea9dd4295e1ce6fa6ece9058a242aa0c2930f725715f6e13dd41bf179ff16464",
+   "json_bytes": 862119,
+   "park_id": "00000002-0000-0000-0000-000000000010",
+   "park_name": "Islands of Adventure",
+   "counts": {
+    "lands": 8,
+    "venues": 30,
+    "venues_with_items": 23,
+    "items": 770,
+    "live_items": 770,
+    "retired_items": 0,
+    "priced": 674,
+    "described": 557,
+    "new_items": 0,
+    "kinds": {
+     "dessert": 68,
+     "drink_alcoholic": 143,
+     "drink_nonalcoholic": 149,
+     "kids": 33,
+     "meal": 242,
+     "merch": 46,
+     "side": 49,
+     "snack": 40
+    }
+   }
+  },
+  {
+   "pack": "magic-kingdom",
+   "url": "packs/magic-kingdom.2f2d4ab2.json.gz",
+   "encoding": "gzip",
+   "sha256": "e58d75de70bf2d58b66845a1fc6a9f0c340ef8e94e4deaf64ba234a90ebb186a",
+   "bytes": 107840,
+   "json_sha256": "2f2d4ab20f13bb907d77ef67ba6a7828033c2dc276c0041b94215d7c6747a180",
+   "json_bytes": 1200724,
+   "park_id": "00000002-0000-0000-0000-000000000001",
+   "park_name": "Magic Kingdom",
+   "counts": {
+    "lands": 6,
+    "venues": 31,
+    "venues_with_items": 31,
+    "items": 1165,
+    "live_items": 1164,
+    "retired_items": 1,
+    "priced": 959,
+    "described": 570,
+    "new_items": 58,
+    "kinds": {
+     "dessert": 133,
+     "drink_alcoholic": 209,
+     "drink_nonalcoholic": 343,
+     "kids": 121,
+     "meal": 227,
+     "merch": 2,
+     "side": 52,
+     "snack": 77
+    }
+   }
+  },
+  {
+   "pack": "universal-studios-florida",
+   "url": "packs/universal-studios-florida.1e1721d2.json.gz",
+   "encoding": "gzip",
+   "sha256": "c86f8abd6be070fdf5fb2a66b7b528851c4611b91cf091176484a40a9ef0a1c8",
+   "bytes": 78538,
+   "json_sha256": "1e1721d2f1d3a5337d56b789c43d6877566b6eb71990b5588c1151705b81904b",
+   "json_bytes": 809502,
+   "park_id": "00000002-0000-0000-0000-000000000009",
+   "park_name": "Universal Studios Florida",
+   "counts": {
+    "lands": 11,
+    "venues": 40,
+    "venues_with_items": 25,
+    "items": 721,
+    "live_items": 721,
+    "retired_items": 0,
+    "priced": 612,
+    "described": 498,
+    "new_items": 0,
+    "kinds": {
+     "dessert": 89,
+     "drink_alcoholic": 118,
+     "drink_nonalcoholic": 170,
+     "kids": 29,
+     "meal": 201,
+     "merch": 27,
+     "side": 57,
+     "snack": 30
+    }
+   }
+  },
+  {
+   "pack": "universal-studios-hollywood",
+   "url": "packs/universal-studios-hollywood.90f6bf8a.json.gz",
+   "encoding": "gzip",
+   "sha256": "e909ea574da6572e051beb28775eaf9f0bd11ea2866ea67f1f8b38e15bff80c3",
+   "bytes": 94518,
+   "json_sha256": "90f6bf8a0139967b061ec7f7d444659f411535fea4acd7f21f89e8787043776b",
+   "json_bytes": 1076744,
+   "park_id": "00000002-0000-0000-0000-000000000013",
+   "park_name": "Universal Studios Hollywood",
+   "counts": {
+    "lands": 10,
+    "venues": 41,
+    "venues_with_items": 39,
+    "items": 987,
+    "live_items": 985,
+    "retired_items": 2,
+    "priced": 875,
+    "described": 600,
+    "new_items": 0,
+    "kinds": {
+     "dessert": 99,
+     "drink_alcoholic": 281,
+     "drink_nonalcoholic": 263,
+     "kids": 13,
+     "meal": 182,
+     "merch": 65,
+     "side": 35,
+     "snack": 47
+    }
+   }
+  }
+ ],
+ "changes": {
+  "url": "changes.json",
+  "sha256": "dbab1b41d16b2095863273a7f7413f7e970677cbc129a8bc77f61012624df1e5",
+  "bytes": 370765,
+  "counts": {
+   "new": 259,
+   "retired": 0,
+   "available_again": 0,
+   "price_changes": 966
+  }
+ },
+ "counts": {
+  "lands": 87,
+  "venues": 515,
+  "venues_with_items": 467,
+  "items": 19735,
+  "live_items": 19718,
+  "retired_items": 17,
+  "priced": 14941,
+  "described": 12044,
+  "new_items": 259
+ },
+ "unplaced": {
+  "venues": 0,
+  "items": 0
+ }
+}
