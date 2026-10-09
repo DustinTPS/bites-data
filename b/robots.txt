@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dustintps.github.io/bites-data/b/sitemap.xml

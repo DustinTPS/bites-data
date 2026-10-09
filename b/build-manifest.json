@@ -1,0 +1,45 @@
+{
+  "origin": "https://dustintps.github.io/bites-data/b",
+  "feedVersion": "2026-10-09.2108",
+  "builtFor": "2026-10-09T21:08:57Z",
+  "pages": {
+    "items": 19735,
+    "venues": 515,
+    "lists": 21,
+    "parks": 14,
+    "redirects": 2154
+  },
+  "ogImages": 1059,
+  "files": 22446,
+  "written": 22446,
+  "unchanged": 0,
+  "removed": 0,
+  "images": {
+    "jobs": 54,
+    "changed": 54
+  },
+  "megabytes": 88.9,
+  "lists": [
+    "best-snacks-magic-kingdom",
+    "new-this-week-magic-kingdom",
+    "shark-picks",
+    "best-snacks-epcot",
+    "new-this-week-epcot",
+    "best-snacks-hollywood-studios",
+    "new-this-week-hollywood-studios",
+    "best-snacks-animal-kingdom",
+    "new-this-week-animal-kingdom",
+    "best-snacks-disney-springs",
+    "new-this-week-disney-springs",
+    "best-snacks-disneyland-park",
+    "best-snacks-disney-california-adventure",
+    "best-snacks-downtown-disney-anaheim",
+    "new-this-week-downtown-disney-anaheim",
+    "best-snacks-universal-studios-florida",
+    "best-snacks-islands-of-adventure",
+    "best-snacks-epic-universe",
+    "best-snacks-citywalk-orlando",
+    "best-snacks-universal-studios-hollywood",
+    "best-snacks-citywalk-hollywood"
+  ]
+}
