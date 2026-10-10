@@ -87,7 +87,7 @@
    "venue_id": "8676806c-caf9-59aa-9f32-3641c1e0fb14",
    "venue": "Brew-Wing Lab at The Odyssey",
    "park": "epcot",
-   "kind": "meal",
+   "kind": "snack",
    "price_cents": 779
   },
   {
@@ -194,7 +194,7 @@
    "venue_id": "61c1c3c3-7d4f-5b00-a9ea-04e388fdd7f4",
    "venue": "Japan",
    "park": "epcot",
-   "kind": "side",
+   "kind": "drink_alcoholic",
    "price_cents": 1000
   },
   {
@@ -587,7 +587,7 @@
    "venue_id": "e196fe4d-5f91-5a56-8000-176a6341fa7f",
    "venue": "The Diamond Horseshoe",
    "park": "magic-kingdom",
-   "kind": "dessert",
+   "kind": "snack",
    "price_cents": 1200
   },
   {
@@ -1392,7 +1392,7 @@
    "venue_id": "3e131c22-7af4-5d87-8809-8b81449203de",
    "venue": "Pizzafari",
    "park": "animal-kingdom",
-   "kind": "dessert",
+   "kind": "drink_alcoholic",
    "price_cents": 1700
   },
   {
@@ -1616,7 +1616,7 @@
    "venue_id": "61c1c3c3-7d4f-5b00-a9ea-04e388fdd7f4",
    "venue": "Japan",
    "park": "epcot",
-   "kind": "side",
+   "kind": "drink_alcoholic",
    "price_cents": 850
   },
   {
@@ -2050,7 +2050,7 @@
    "venue_id": "00000004-0400-0000-0000-000000000430",
    "venue": "Salt & Straw",
    "park": "downtown-disney-anaheim",
-   "kind": "drink_nonalcoholic"
+   "kind": "dessert"
   },
   {
    "date": "2026-10-08",
@@ -2059,7 +2059,7 @@
    "venue_id": "00000004-0001-0000-0000-000000000002",
    "venue": "The Plaza Restaurant",
    "park": "magic-kingdom",
-   "kind": "snack"
+   "kind": "meal"
   },
   {
    "date": "2026-10-08",
@@ -2373,7 +2373,7 @@
    "venue_id": "6a4b6f2d-02c1-57e5-b097-c512f0b2759e",
    "venue": "Backlot Express",
    "park": "hollywood-studios",
-   "kind": "dessert",
+   "kind": "drink_alcoholic",
    "price_cents": 1700
   },
   {
@@ -2412,7 +2412,7 @@
    "venue_id": "1cfb7073-7792-5582-b53f-7d14970b476e",
    "venue": "B.B. Wolf's Sausage Co.",
    "park": "disney-springs",
-   "kind": "dessert",
+   "kind": "drink_alcoholic",
    "price_cents": 1700
   },
   {
@@ -2808,7 +2808,7 @@
    "venue_id": "00000004-0300-0000-0000-000000000304",
    "venue": "Sleepy Hollow Refreshments",
    "park": "magic-kingdom",
-   "kind": "snack",
+   "kind": "meal",
    "old": 1299,
    "new": 1399
   },
@@ -4436,7 +4436,7 @@
    "venue_id": "77d42513-e6f4-5d6c-b4af-e19d6c23d522",
    "venue": "50's Prime Time Café",
    "park": "hollywood-studios",
-   "kind": "drink_alcoholic",
+   "kind": "meal",
    "old": 2800,
    "new": 2900
   },
@@ -4766,7 +4766,7 @@
    "venue_id": "9e70bc59-9068-54ea-971f-a692655b95f9",
    "venue": "Tamu Tamu Refreshments",
    "park": "animal-kingdom",
-   "kind": "drink_nonalcoholic",
+   "kind": "dessert",
    "old": 679,
    "new": 699
   },
@@ -5690,7 +5690,7 @@
    "venue_id": "00000004-0020-0000-0000-000000000004",
    "venue": "Sci-Fi Dine-In Theater Restaurant",
    "park": "hollywood-studios",
-   "kind": "snack",
+   "kind": "meal",
    "old": 1600,
    "new": 1700
   },
@@ -6911,7 +6911,7 @@
    "venue_id": "00000004-0003-0000-0000-000000000004",
    "venue": "Hollywood Brown Derby",
    "park": "hollywood-studios",
-   "kind": "snack",
+   "kind": "meal",
    "old": 3000,
    "new": 3200
   },
@@ -10167,7 +10167,7 @@
    "venue_id": "00000004-0020-0000-0000-000000000004",
    "venue": "Sci-Fi Dine-In Theater Restaurant",
    "park": "hollywood-studios",
-   "kind": "snack",
+   "kind": "meal",
    "old": 1600,
    "new": 1700
   },
@@ -10244,7 +10244,7 @@
    "venue_id": "00000004-0001-0000-0000-000000000002",
    "venue": "The Plaza Restaurant",
    "park": "magic-kingdom",
-   "kind": "drink_alcoholic",
+   "kind": "snack",
    "old": 1000,
    "new": 1200
   },
@@ -10574,7 +10574,7 @@
    "venue_id": "87485c4d-9481-5431-9393-73acbd1b53ea",
    "venue": "The Hollywood Brown Derby Lounge",
    "park": "hollywood-studios",
-   "kind": "snack",
+   "kind": "meal",
    "old": 3000,
    "new": 3200
   },
@@ -13176,6 +13176,6 @@
   }
  ],
  "schema": 2,
- "generated_at": "2026-10-09T21:08:57Z",
+ "generated_at": "2026-10-10T06:16:05Z",
  "days": 14
 }

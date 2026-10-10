@@ -1,24 +1,24 @@
 {
   "origin": "https://dustintps.github.io/bites-data/b",
-  "feedVersion": "2026-10-09.2108",
-  "builtFor": "2026-10-09T21:08:57Z",
+  "feedVersion": "2026-10-10.0616",
+  "builtFor": "2026-10-10T06:16:05Z",
   "pages": {
-    "items": 19735,
+    "items": 19723,
     "venues": 515,
     "lists": 21,
     "parks": 14,
     "redirects": 2154
   },
-  "ogImages": 1059,
-  "files": 22446,
-  "written": 22446,
-  "unchanged": 0,
-  "removed": 0,
+  "ogImages": 2116,
+  "files": 22434,
+  "written": 7396,
+  "unchanged": 15038,
+  "removed": 13,
   "images": {
-    "jobs": 54,
-    "changed": 54
+    "jobs": 56,
+    "changed": 11
   },
-  "megabytes": 88.9,
+  "megabytes": 89.8,
   "lists": [
     "best-snacks-magic-kingdom",
     "new-this-week-magic-kingdom",
