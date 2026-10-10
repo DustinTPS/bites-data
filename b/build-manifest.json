@@ -11,14 +11,14 @@
   },
   "ogImages": 2116,
   "files": 22434,
-  "written": 7396,
-  "unchanged": 15038,
-  "removed": 13,
+  "written": 2416,
+  "unchanged": 20018,
+  "removed": 0,
   "images": {
-    "jobs": 56,
-    "changed": 11
+    "jobs": 78,
+    "changed": 34
   },
-  "megabytes": 89.8,
+  "megabytes": 91,
   "lists": [
     "best-snacks-magic-kingdom",
     "new-this-week-magic-kingdom",
